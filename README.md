@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **BDD (Behavioral Driven Development) and TDD (Test Driven Development)**
 
-- 👨‍💻 All of my projects are available at <a href = " https://jaemdessources.com > jaemdessources.com</a>
+- 👨‍💻 All of my projects are available at <a href ="https://jaemdessources.com"> jaemdessources.com</a>
 
 - 💬 Ask me about **React, Typescript, CSS**
 
