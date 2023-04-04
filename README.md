@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Jaem Dessources Dit Dumesle</h1>
 <h3 align="center">A passionate frontend software engineer in Fort Lauderdale, Fl</h3>
 
-- 🔭 I’m currently working on [Deathwishcoffee clone](https://deathwishcoffee.jaemdessources.com)
+- 🔭 I’m currently working on <a href="https://deathwishcoffee.jaemdessources.com">Deathwishcoffee clone</a>
 
 - 🌱 I’m currently learning **BDD (Behavioral Driven Development) and TDD (Test Driven Development)**
 
-- 👨‍💻 All of my projects are available at [jaemdessources.com](https://jaemdessources.com)
+- 👨‍💻 All of my projects are available at <a href = " https://jaemdessources.com > jaemdessources.com</a>
 
 - 💬 Ask me about **React, Typescript, CSS**
 
