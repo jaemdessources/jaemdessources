@@ -1,5 +1,5 @@
 
-<img src ="https://jaemdessources.com/wp-content/uploads/2023/04/nextjs.png" align="center" alt="My picture"/>
+<img src ="https://jaemdessources.com/wp-content/uploads/2023/03/6cf27317-d3fd-4949-9d3e-ec95f269e774.jpeg" align="center" alt="My picture"/>
 <h1 align="center">Hi 👋, I'm Jaem Dessources Dit Dumesle</h1>
 <h3 align="center">A passionate frontend software engineer in Fort Lauderdale, Fl</h3>
 
